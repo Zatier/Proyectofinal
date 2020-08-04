@@ -1,0 +1,167 @@
+.headerfixedbar{
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color: white;
+    position: fixed;
+    top:0px;
+    width: 100%;
+    height: auto;
+} 
+
+.headerlogotext{
+    color:cornflowerblue;
+    font-weight: normal;
+}
+
+.headerlogoimage{
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.pullleft{
+    float: left;
+    display: inline-block;
+}
+
+.pullright{
+    float: right;
+    display: inline-block;
+}
+
+.vMiddle{
+    display: inline-block;
+    position: relative;
+}
+
+.themebutton{
+    background-color: cornflowerblue;
+    color:white;
+    border-color: black;
+    border-width: thin;
+}
+
+.themebutton:hover{
+    background-color: white;
+    color: cornflowerblue;
+    border-color: cornflowerblue;
+    border-width: thin;
+    font-weight: normal;
+}
+
+.paginationarrow{
+    color:darkgray;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.paginationbar{
+    padding:15px;
+}
+
+body{
+    background-color:#f2f2f2;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 75px;
+    margin-bottom: 25px;
+}
+
+h1{
+    font-size: 1.7em;
+    color:cornflowerblue;
+}
+
+
+h2{
+    font-size: 1.5em;
+    color:cornflowerblue;
+}
+
+h3{
+    font-size: 1.3em;
+    color:cornflowerblue;
+}
+
+h4{
+    font-size: 1.1em;
+    color:cornflowerblue;
+}
+
+
+.forummodule{
+    background-color: white;
+    color: black;
+    overflow: none;
+}
+
+.categorymodule{
+    background-color: white;
+    color: black;
+    overflow: none;
+    margin-top: 50px;
+}
+
+.forummargin{
+    margin-bottom: 10px;
+}
+
+.forumpad{
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+
+.forumtable{
+    width: 100%;
+    height: auto;
+    border:1px solid cornflowerblue;
+}
+
+.forumtable th{
+    padding: 5px;
+}
+
+.forumtable tr{
+    border:1px solid #f2f2f2;
+    padding: 5px;
+}
+
+.forumtable td{
+    padding: 5px;
+}
+
+.forumtable a:hover{
+    font-weight: normal;
+}
+
+.columnpad{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+
+a{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+a:hover{
+    color:lightseagreen;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.newdiscussiontext{
+    width: 100%;
+    height: auto;
+    background-color:white;
+}
+
+.newdiscussiontext:hover{
+    background-attachment: white;
+}
